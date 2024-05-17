@@ -6,7 +6,7 @@ To install just type in your terminal
 ``` pip install Scratch-Message-Client ```
 and type ``` SMC ``` to start
 
-
+## disc
 This is a client to message on scratch
 
 WARNING:I do not cudone any spamming on scratch with this client
