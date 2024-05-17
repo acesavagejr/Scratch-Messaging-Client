@@ -4,6 +4,7 @@
 ## Installation
 To install just type in your terminal
 ``` pip install Scratch-Message-Client ```
+and type ``` SMC ``` to start
 
 
 This is a client to message on scratch
