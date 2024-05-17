@@ -1,8 +1,6 @@
 def SMC():
     import os
 
-    os.system("pip install -U scratchattach")
-
     count = 0
     while (count < 3):  # Change the condition to limit the number of iterations
         game = input("Please enter the scratch id.: ")
