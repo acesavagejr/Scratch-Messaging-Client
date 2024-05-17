@@ -1,6 +1,11 @@
 # Scratch-Messaging-Client
 ![SMC-logo](https://github.com/acesavagejr/Scratch-Messaging-Client/assets/85138593/4fb26a2c-60ea-44aa-9019-85a1ccfffbc6)
 
+## Installation
+To install just type in your terminal
+``` pip install Scratch-Message-Client ```
+
+
 This is a client to message on scratch
 
 WARNING:I do not cudone any spamming on scratch with this client
